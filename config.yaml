@@ -1,0 +1,7 @@
+generation_prefix: "🚀 Generating documentation for repository: "
+type_prefix: "✅ Completed Generating documentation for type: "
+function_prefix: "✅ Completed Generating documentation for function: "
+generation_suffix: "✅ Documentation generation completed successfully."
+API_KEY: "demo-secret-token"
+BACKEND_URL: "http://localhost:5000/api"
+TAGS: []
